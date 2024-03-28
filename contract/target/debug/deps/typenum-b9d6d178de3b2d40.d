@@ -1,0 +1,18 @@
+/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/deps/libtypenum-b9d6d178de3b2d40.rmeta: /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs /home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/op.rs /home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/consts.rs
+
+/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/deps/typenum-b9d6d178de3b2d40.d: /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs /home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs /home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/op.rs /home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/consts.rs
+
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/lib.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/bit.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/int.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/marker_traits.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/operator_aliases.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/private.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/type_operators.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/uint.rs:
+/home/issac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.12.0/src/array.rs:
+/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/op.rs:
+/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/op.rs

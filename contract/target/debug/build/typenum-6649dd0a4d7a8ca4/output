@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/issac/Documents/near-rust-todoapp-main/contract/target/debug/build/typenum-6649dd0a4d7a8ca4/out/op.rs
